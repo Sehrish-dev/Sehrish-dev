@@ -1,150 +1,161 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4F46E5,100:06B6D4&text=Hi,%20I'm%20Sehrish&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=58" alt="Sehrish - Full Stack Developer | MERN Stack Developer" width="100%" />
-
-<p>
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4F46E5?style=for-the-badge" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/MERN-Stack-06B6D4?style=for-the-badge" alt="MERN Stack" />
-  <img src="https://img.shields.io/badge/AI%20%26-Automation-0F172A?style=for-the-badge" alt="AI and Automation" />
-</p>
-
-</div>
-
----
-
-## About Me
-
-I'm **Sehrish**, a Full Stack Developer who specializes in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I enjoy turning ideas into complete, working web applications, from designing clean REST APIs and secure authentication to building responsive user interfaces.
-
-I'm especially interested in **Artificial Intelligence and Automation**, and I like exploring how AI can be integrated into real-world web applications to save time and improve user experience.
-
-My goal is to build **practical, user-friendly applications** that solve real problems, and to keep growing as a developer through hands-on projects and continuous learning.
-
----
-
-## Tech Stack
+<!--
+  SETUP: search this file for "TODO" and replace each one with your real project details.
+  Your profile repository must be named exactly: sehrish-dev
+-->
 
 <div align="center">
 
-**Frontend**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,50:1e3a8a,100:2563eb&text=Sehrish%20Iqbal&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20MERN%20Stack&descAlignY=64&descSize=18" alt="Sehrish Iqbal – Full Stack Web Developer banner" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" alt="Frontend technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=60A5FA&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Integration+%26+Automation+Enthusiast" alt="Full Stack Web Developer | MERN Stack Developer | AI Integration & Automation Enthusiast" />
 
-**Backend**
+*I build practical, database-driven web applications with React, Node.js and MongoDB, and I'm exploring AI-powered features and automation.*
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=light" alt="Backend technologies" />
+<br />
 
-**Database & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase&theme=light" alt="Database technologies" />
-
-**Tools & Version Control**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=light" alt="Tools" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/JWT%20Authentication-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+<a href="https://github.com/sehrish-dev"><img src="https://img.shields.io/badge/GitHub-sehrish--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile: sehrish-dev" /></a>
+<a href="https://www.linkedin.com/in/sehrish-iqbal-0492b5408"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:sehrishdev786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
 </div>
 
----
+<br />
 
-## Featured Projects
+<h2 align="center">About Me</h2>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Role** | Full Stack Development Intern at Red Code Technology |
+| **Education** | BS Computer Science (2022–2026) |
+| **Stack** | React.js · Node.js · Express.js · MongoDB |
+| **Interests** | AI integration, intelligent automation, real-world software |
+
+</div>
+
+<br />
+
+I'm a Computer Science graduate and a Full Stack Development Intern, working across both the frontend and backend of web applications.
+
+I enjoy turning real-world problems into usable software: responsive React interfaces, REST APIs built with Node.js and Express, and MongoDB-backed data models. I care about clean, maintainable code, practical problem-solving and continuous learning.
+
+I'm also interested in AI integration and intelligent automation, and in how they can make everyday applications smarter. I'm open to collaborating on meaningful projects and to professional opportunities.
+
+<br />
+
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
+
+<h3>Frontend</h3>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+
+<h3>Backend</h3>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+
+<h3>Database</h3>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+
+<h3>Programming</h3>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+<h3>Tools & Other Skills</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/AI_Integration-2563EB?style=for-the-badge" alt="AI Integration" />
+<img src="https://img.shields.io/badge/Automation-2563EB?style=for-the-badge" alt="Automation" />
+<img src="https://img.shields.io/badge/SEO_Analysis-2563EB?style=for-the-badge" alt="SEO Analysis" />
+
+</div>
+
+<br />
+
+<h2 align="center">Featured Projects</h2>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td>
       <h3>Dizoora</h3>
-      <p><b>Hotel Management System</b></p>
-      <p>A full stack application for managing hotel operations, built with a React.js frontend and a Node.js/Express.js REST API backed by MongoDB.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-      <p><a href="YOUR_DIZOORA_REPO_LINK">Repository</a></p>
+      <b>Hotel Management System</b><br /><br />
+      A hotel management application for running day-to-day hotel operations through dedicated <b>admin</b> and <b>receptionist</b> dashboards.<br /><br />
+      <b>Stack:</b> React.js · Node.js · Express.js · MongoDB<br /><br />
+      <!-- TODO: add only the features you have actually finished, e.g. authentication, room management, guest management, check-in / check-out workflow -->
+      <a href="https://github.com/sehrish-dev/TODO-DIZOORA-REPO-NAME"><img src="https://img.shields.io/badge/View_Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Dizoora repository" /></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>TalentBridge AI</h3>
-      <p><b>AI-Powered CV Analyzer & Job Portal</b></p>
-      <p>A job portal that uses AI to analyze CVs, helping connect candidates with relevant opportunities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI%20Integration-4F46E5?style=flat-square" alt="AI Integration" />
-        <img src="https://img.shields.io/badge/Full%20Stack-06B6D4?style=flat-square" alt="Full Stack" />
-      </p>
-      <p><a href="YOUR_TALENTBRIDGE_REPO_LINK">Repository</a></p>
+      <b>AI-Powered CV Analyzer & Job Portal</b><br /><br />
+      A platform designed to analyze resumes, evaluate skills, and help users explore relevant job opportunities through matching and recommendations.<br /><br />
+      <b>Stack:</b> TODO — list the technologies actually used in the repository<br /><br />
+      <!-- TODO: add only implemented features -->
+      <a href="https://github.com/sehrish-dev/TODO-TALENTBRIDGE-REPO-NAME"><img src="https://img.shields.io/badge/View_Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="TalentBridge AI repository" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h3>SEO Audit Agents</h3>
-      <p><b>AI-Assisted SEO Auditing</b></p>
-      <p>An automation-focused project that performs AI-assisted SEO audits and generates reports automatically.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-4F46E5?style=flat-square" alt="AI" />
-        <img src="https://img.shields.io/badge/Automation-06B6D4?style=flat-square" alt="Automation" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <p><a href="YOUR_SEO_AUDIT_REPO_LINK">Repository</a></p>
+  </tr>
+  <tr>
+    <td>
+      <h3>TODO: Field Service Project Name</h3>
+      <b>TODO: short subtitle</b><br /><br />
+      TODO: one or two sentences on what the project does, based on the real codebase.<br /><br />
+      <b>Stack:</b> TODO<br /><br />
+      <!-- TODO: add only implemented features -->
+      <a href="https://github.com/sehrish-dev/TODO-FIELD-SERVICE-REPO-NAME"><img src="https://img.shields.io/badge/View_Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Field Service repository" /></a>
     </td>
   </tr>
 </table>
 
-> Replace the `YOUR_..._REPO_LINK` placeholders with your repository URLs. Update each project's technology badges to match what you actually used.
-
----
-
-## Currently Learning
-
-- Integrating AI APIs and LLM-powered features into web applications
-- Building automation workflows to streamline repetitive tasks
-- Improving backend architecture, API design, and application security
-- Writing cleaner, more maintainable, and better-tested code
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=4F46E5&icon_color=06B6D4" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=4F46E5" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5" alt="GitHub Streak" />
+<a href="https://github.com/sehrish-dev?tab=repositories">See all repositories on GitHub →</a>
 
 </div>
 
----
+<br />
 
-## Connect With Me
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<img src="https://streak-stats.demolab.com?user=sehrish-dev&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub contribution streak" />
 
 </div>
 
----
+<!-- These cards come from third-party services that are sometimes slow or rate-limited.
+     If one shows as broken after you publish, delete that line. -->
 
-## Contact
+<br />
+
+<h2 align="center">Current Focus</h2>
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-YOUR__EMAIL%40example.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+| Building | Exploring | Improving |
+|:--:|:--:|:--:|
+| Full stack apps with the MERN stack | AI integration and workflow automation | Code quality and maintainability |
 
-<p>Open to collaboration, opportunities, and conversations about web development, AI, and automation.</p>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06B6D4,100:4F46E5&section=footer" alt="Footer" width="100%" />
+<br />
+
+<div align="center">
+
+*Always happy to talk about new projects, collaborations and opportunities.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer" alt="" width="100%" />
 
 </div>
