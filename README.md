@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0f172a,50:1e3a8a,100:2563eb&text=Sehrish%20Iqbal&fontColor=ffffff&fontSize=54&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20MERN%20Stack&descAlignY=64&descSize=18" alt="Sehrish Iqbal – Full Stack Web Developer banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1120,40:1e3a8a,75:2563eb,100:06b6d4&section=header&text=Sehrish%20Iqbal&fontColor=ffffff&fontSize=46&fontAlignY=42&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20MERN%20Stack&descColor=dbeafe&descAlignY=68&descSize=17" alt="Sehrish Iqbal – Full Stack Web Developer banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=60A5FA&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+Integration+%26+Automation+Enthusiast" alt="Full Stack Web Developer | MERN Stack Developer | AI Integration & Automation Enthusiast" />
 
@@ -156,6 +156,6 @@ I'm also interested in AI integration and intelligent automation, and in how the
 
 *Always happy to talk about new projects, collaborations and opportunities.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0f172a&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:06b6d4,40:2563eb,75:1e3a8a,100:0b1120&section=footer" alt="" width="100%" />
 
 </div>
